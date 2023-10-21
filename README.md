@@ -1,1 +1,1 @@
-# backendminiprojet
+# backend mini projet (Nodejs MongoDB)
